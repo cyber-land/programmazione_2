@@ -5,6 +5,8 @@
 		- [ ] open-close principle (OCP)
 		- [x] encapsulation
 		- [x] The Liskov Substitution Principle
+		- [ ] Separate the concerns
+		- [ ] Composition over inheritance ( CBA )
 		- [ ] [abstraction](https://stackify.com/oop-concept-abstraction/)
 	- [ ] UML
 - [ ] [[sintax]]
@@ -36,7 +38,9 @@
 	- [ ] lambda expressions
 	- [x] optional
 	- [ ] ordinare gli appunti
-- [ ] javafx
+- [ ] [[javafx]]
+	- [ ] buttons
+	- [ ] layout
 
 # Disclaimer
 

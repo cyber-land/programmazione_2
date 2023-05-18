@@ -60,6 +60,10 @@ public abstract class Component {
 }
 ```
 
+All variables declared in an interface are public static final
+All methods declared in an interface methods are public abstract
+Interfaces cannot be declared as final
+
 An abstract class cannot be instantiated. It can be sub-classed (extended) as long as the sub-class is either also abstract, or implements all methods marked as abstract by super classes
 
 ```java

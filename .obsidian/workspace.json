@@ -32,12 +32,36 @@
             }
           },
           {
+            "id": "edb0124b1e05a02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb18822518ed0376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sintax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f01f39d5d3f81686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory.md",
+                "file": "principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "edb0124b1e05a02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compara",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,6 +123,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2062a5b843a9c025",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -134,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "inheritance.md"
               }
             }
           }
@@ -195,17 +215,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fccbe615a5970ffb",
+  "active": "edb0124b1e05a02b",
   "lastOpenFiles": [
-    "inheritance.md",
-    "sintax.md",
     "TODO.md",
-    "theory.md",
+    "sintax.md",
+    "javafx.md",
+    "javafx_graph_arch.png",
+    "inheritance.md",
+    "IO.md",
     "functional.md",
     "principles.md",
+    "theory.md",
     "programmazione_2",
     "polymorphism.md",
-    "IO.md",
     "modifiers.md",
     "object orientation.md",
     "constructors.md"
